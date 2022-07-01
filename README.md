@@ -1,4 +1,4 @@
-# Fatura Challenge Backend
+# User Authentication Backend
 
 Description:
 
