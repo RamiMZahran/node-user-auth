@@ -163,3 +163,10 @@ These are main fragments in the app:
     status: 200,
     condition: toggle user admin role successfully,
     }]
+
+# Future Improvements:
+
+- Add service testing.
+- Add mocks to controller testing.
+- Add authentication refresh token after making auth token expire.
+- Add separate model for roles and permission for more flexibility in bigger apps.
